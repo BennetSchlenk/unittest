@@ -1,3 +1,3 @@
 # unittest
 
-![build](https://ci.appveyor.com/api/projects/status/github/BennetSchlenk/unittest?branch=master&svg=true)
+[![Build status](https://ci.appveyor.com/api/projects/status/nwb0u14am0li18ta?svg=true)](https://ci.appveyor.com/project/BennetSchlenk/unittest-ay9av)
